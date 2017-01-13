@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <library name="fr.utbm.lo52.framework"
+            file="/system/framework/fr.utbm.lo52.framework.jar"/>
+</permissions>
